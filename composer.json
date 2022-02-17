@@ -5,6 +5,7 @@
             "Yookoala\\Dummy\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "Koala Yeung",
